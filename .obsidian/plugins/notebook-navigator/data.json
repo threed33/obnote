@@ -542,6 +542,11 @@
     },
     "111/33256o/3333/333": {
       "previewRows": 1
+    },
+    "红队": {
+      "previewRows": 0,
+      "showTags": false,
+      "showProperties": false
     }
   },
   "tagIcons": {},
@@ -581,7 +586,7 @@
     "#404040",
     "#404040"
   ],
-  "lastShownVersion": "3.4.1",
+  "lastShownVersion": "3.4.3",
   "rootFolderOrder": [],
   "rootTagOrder": [],
   "rootPropertyOrder": []
